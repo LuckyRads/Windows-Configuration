@@ -12,4 +12,4 @@
 - NG Remote
 - OpenVPN
 - Cisco AnyConnect VPN Client
-- 
+- MS Office
