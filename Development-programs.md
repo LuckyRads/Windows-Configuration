@@ -1,8 +1,15 @@
 # Development applications
 - Git
+- ConEmu
 - Visual Studio Code
 - Postman
 - JRE
 - Eclipse
 - Tor
 - Git Extensions
+- Oracle Virtual Box
+- VMWare Workstation Player
+- NG Remote
+- OpenVPN
+- Cisco AnyConnect VPN Client
+- 
