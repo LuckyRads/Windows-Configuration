@@ -1,5 +1,5 @@
 # GUI improvements
-- TaskBar X
+- TaskBar X / Translucent TB
 - Dark Theme
 - Start menu Pinned tiles and Application list
 - Explorer opens up This PC by default
