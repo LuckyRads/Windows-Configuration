@@ -8,6 +8,8 @@
   - Disable Awake
   - Enable FancyZones
   - Make a 4x4 grid
+    - 5 px space around
+    - 10 highlight
   - Override Windows Snap
     - Win + Up/Down/Left/Right to move windows based on relative position
       - New shortcuts:
