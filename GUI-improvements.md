@@ -4,3 +4,13 @@
 - Start menu Pinned tiles and Application list
 - Explorer opens up This PC by default
 - Default Task Bar items: Firefox, Explorer, ConEmu64
+- PowerToys
+  - Disable Awake
+  - Enable FancyZones
+  - Make a 4x4 grid
+  - Override Windows Snap
+    - Win + Up/Down/Left/Right to move windows based on relative position
+      - New shortcuts:
+      - Win + arrow moves in 4x4 grid
+      - Win + Ctrl + Shift + arrow moves windows like default Win + arrow
+      - Win + Ctrl + Alt + arrow expands window through zones
