@@ -16,3 +16,5 @@
       - Win + arrow moves in 4x4 grid
       - Win + Ctrl + Shift + arrow moves windows like default Win + arrow
       - Win + Ctrl + Alt + arrow expands window through zones
+  - PowerToys Run
+    - Activation shortcut: Alt + F2
