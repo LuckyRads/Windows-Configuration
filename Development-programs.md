@@ -1,6 +1,11 @@
 # Development applications
 - Git
 - ConEmu
+  - Install Dracula theme
+  - Set <code>Cascadia Code PL</code> font
+  - Create <code>~/.config/git/git-prompt.sh</code> and copy from functions comment to EOF from https://raw.githubusercontent.com/ChrisTitusTech/scripts/master/fancy-bash-promt.sh
+  - Search for TRIANGLE
+  - Change trialbe unicode symbol code to pasted triangle symbol from Linux machine
 - Visual Studio Code
 - Postman
 - JRE
