@@ -26,4 +26,3 @@
   Set-PoshPrompt -Theme Paradox</code>
   - Install <code>Cascadia Font</code> with power glyphs
   - Set <code>Cascadia Code PL</code> font to all profiles
-  - 
