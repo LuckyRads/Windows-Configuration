@@ -3,7 +3,7 @@
 - ConEmu
   - Install Dracula theme
   - Set <code>Cascadia Code PL</code> font
-  - Create <code>~/.config/git/git-prompt.sh</code> and copy from functions comment to EOF from https://raw.githubusercontent.com/ChrisTitusTech/scripts/master/fancy-bash-promt.sh
+  - Create <code>~/.config/git/git-prompt.sh</code> and copy from functions comment to EOF from https://github.com/LuckyRads/Ubuntu-Configurator/blob/main/.bashrc
   - Search for TRIANGLE
   - Change trialbe unicode symbol code to pasted triangle symbol from Linux machine
 - Visual Studio Code
