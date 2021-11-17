@@ -8,3 +8,4 @@ If you're using Linux, it's probably worth to check out <a href="https://github.
 
 - <code>configs</code> contains various application configuration files
 - <code>images</code> contains some images of the environment
+- <code>descriptions</code> contains markdown files with application lists and certain configuration instructions
