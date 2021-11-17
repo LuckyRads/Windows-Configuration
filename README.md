@@ -1,4 +1,4 @@
-# Windows-Configuration
+# Windows Configuration
 
 This repository contains some of the most used Windows application by me.<br>
 
