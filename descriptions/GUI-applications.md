@@ -20,3 +20,5 @@
     - Activation shortcut: Alt + F2
 - <a href="https://github.com/Eun/MoveToDesktop">MoveToDesktop</a> (used for appication window transfer between desktops)
   - Paste <a href="https://github.com/LuckyRads/Windows-Configuration/blob/main/configs/MoveToDesktop.ini">configs/MoveToDesktop.ini</a> in <code>%AppData%</code>
+  - Transfer app file to <code>%AppData%</code> (user preference)
+  - Create task schedule to start MoveToDesktop on each log on
