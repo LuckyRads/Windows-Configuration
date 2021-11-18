@@ -18,3 +18,5 @@
       - Win + Ctrl + Alt + arrow expands window through zones
   - PowerToys Run
     - Activation shortcut: Alt + F2
+- <a href="https://github.com/Eun/MoveToDesktop">MoveToDesktop</a> (used for appication window transfer between desktops)
+  
