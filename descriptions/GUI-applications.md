@@ -19,4 +19,4 @@
   - PowerToys Run
     - Activation shortcut: Alt + F2
 - <a href="https://github.com/Eun/MoveToDesktop">MoveToDesktop</a> (used for appication window transfer between desktops)
-  
+  - Paste <code>configs/MoveToDesktop.ini</code> in <code>%AppData%</code>
