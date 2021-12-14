@@ -31,8 +31,10 @@
     - <code>Install-Module posh-git -Scope CurrentUser</code>
     - <code>Install-Module oh-my-posh -Scope CurrentUser</code>
     - <code>Install-Module -Name PSReadLine -AllowPrerelease -Scope CurrentUser -Force -SkipPublisherCheck</code>
+    - <code>Install-Module -Name Terminal-Icons -Repository PSGallery</code>
     - Run <code>notepad $PROFILE</code> in PS
     - Add this to the file: 
-    <code>Import-Module posh-git
-    Import-Module oh-my-posh
-    Set-PoshPrompt -Theme powerlevel10k_rainbow</code>
+    <code><p>Import-Module posh-gitp</p></code>
+    <code><p>Import-Module oh-my-posh</p></code>
+    <code><p>Set-PoshPrompt -Theme powerlevel10k_rainbow</p></code>
+    <code><p>Import-Module -Name Terminal-Icons</p></code>
