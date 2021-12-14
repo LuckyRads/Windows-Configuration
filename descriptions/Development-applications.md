@@ -34,7 +34,7 @@
     - <code>Install-Module -Name Terminal-Icons -Repository PSGallery</code>
     - Run <code>notepad $PROFILE</code> in PS
     - Add this to the file: 
-    <code><p>Import-Module posh-gitp</p></code>
-    <code><p>Import-Module oh-my-posh</p></code>
-    <code><p>Set-PoshPrompt -Theme powerlevel10k_rainbow</p></code>
-    <code><p>Import-Module -Name Terminal-Icons</p></code>
+    <p>Import-Module posh-gitp</p>
+    <p>Import-Module oh-my-posh</p>
+    <p>Set-PoshPrompt -Theme powerlevel10k_rainbow</p>
+    <p>Import-Module -Name Terminal-Icons</p>
