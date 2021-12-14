@@ -11,16 +11,16 @@
             "keys": "ctrl+c"
         },
         {
-            "command": "find",
-            "keys": "ctrl+shift+f"
-        },
-        {
             "command": 
             {
                 "action": "splitPane",
                 "split": "vertical"
             },
             "keys": "ctrl+shift+e"
+        },
+        {
+            "command": "find",
+            "keys": "ctrl+shift+f"
         },
         {
             "command": "paste",
@@ -59,7 +59,7 @@
                 "commandline": "powershell.exe",
                 "font": 
                 {
-                    "face": "Cascadia Code PL"
+                    "face": "CaskaydiaCove Nerd Font"
                 },
                 "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
                 "hidden": false,
@@ -70,7 +70,7 @@
                 "commandline": "cmd.exe",
                 "font": 
                 {
-                    "face": "Cascadia Code PL"
+                    "face": "CaskaydiaCove Nerd Font"
                 },
                 "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
                 "hidden": false,
@@ -81,7 +81,7 @@
                 "commandline": "ubuntu",
                 "font": 
                 {
-                    "face": "Cascadia Code PL"
+                    "face": "CaskaydiaCove Nerd Font"
                 },
                 "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
                 "hidden": false,
@@ -94,7 +94,7 @@
                 "commandline": "C:\\Program Files\\Git\\bin\\bash.exe",
                 "font": 
                 {
-                    "face": "Cascadia Code PL"
+                    "face": "CaskaydiaCove Nerd Font"
                 },
                 "guid": "{21e2d5e2-0d47-446c-8c47-82efd5688c49}",
                 "icon": "C:\\Program Files\\Git\\mingw64\\share\\git\\git-for-windows.ico",
