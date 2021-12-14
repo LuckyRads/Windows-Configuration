@@ -14,7 +14,7 @@
 - WSL2
 - ConEmu
   - Install Dracula theme
-  - Set <code>Cascadia Code PL</code> font
+  - Set [Nerd Font Caskaydia Cove Nerd](https://www.nerdfonts.com/) font
   - Create <code>~/.config/git/git-prompt.sh</code> and copy from <code>FANCY BASH PROMPT SCRIPT</code> to <code>EOF</code> from <a href="https://github.com/LuckyRads/Linux-Configuration/blob/main/configs/.bashrc">.bashrc</a>
   - Search for <code>TRIANGLE</code> in <code>.bashrc</code> file
   - Change triangle unicode symbol code to pasted triangle symbol from Linux machine
@@ -23,8 +23,8 @@
   - Copy configuration from <a href="https://github.com/LuckyRads/Linux-Configuration/blob/main/configs/VSCode_settings.json">VSCode settings file</a> (includes Vim settings and powerline symbol supporting font)
 - Windows Terminal
   - Install Dracula theme (from the internet)
-  - Install <code>Cascadia Font</code> with power glyphs
-  - Set <code>Cascadia Code PL</code> font to all profiles
+  - Install [Nerd Font Caskaydia Cove Nerd](https://www.nerdfonts.com/) with power glyphs
+  - Set <code>CaskaydiaCove Nerd Font</code> font to all profiles
   - Split horizontally shortcut to <code>ctrl + shift + o</code>
   - Split vertically shortcut to <code>ctrl + shift + e</code>
   - Fancy powershell:
@@ -35,4 +35,4 @@
     - Add this to the file: 
     <code>Import-Module posh-git
     Import-Module oh-my-posh
-    Set-PoshPrompt -Theme Paradox</code>
+    Set-PoshPrompt -Theme powerlevel10k_rainbow</code>
