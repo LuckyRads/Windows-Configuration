@@ -38,3 +38,4 @@
     <p>Import-Module oh-my-posh</p>
     <p>Set-PoshPrompt -Theme powerlevel10k_rainbow</p>
     <p>Import-Module -Name Terminal-Icons</p>
+    <p>Set-PSReadlineKeyHandler -Key Tab -Function Complete</p>
