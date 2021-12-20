@@ -39,3 +39,7 @@
     <p>Set-PoshPrompt -Theme powerlevel10k_rainbow</p>
     <p>Import-Module -Name Terminal-Icons</p>
     <p>Set-PSReadlineKeyHandler -Key Tab -Function Complete</p>
+- Powershell
+  - Chocolatey package manager
+    - Install gsudo (from administrator prompt)
+    <code>choco install gsudo</code>
