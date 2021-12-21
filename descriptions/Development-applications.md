@@ -33,12 +33,19 @@
     - <code>Install-Module -Name PSReadLine -AllowPrerelease -Scope CurrentUser -Force -SkipPublisherCheck</code>
     - <code>Install-Module -Name Terminal-Icons -Repository PSGallery</code>
     - Run <code>notepad $PROFILE</code> in PS
-    - Add this to the file: 
-    <p>Import-Module posh-git</p>
-    <p>Import-Module oh-my-posh</p>
-    <p>Set-PoshPrompt -Theme powerlevel10k_rainbow</p>
-    <p>Import-Module -Name Terminal-Icons</p>
-    <p>Set-PSReadlineKeyHandler -Key Tab -Function Complete</p>
+    - Add this to the file:
+    ```
+    Import-Module posh-git
+    Import-Module oh-my-posh
+    Set-PoshPrompt -Theme powerlevel10k_rainbow
+    Import-Module -Name Terminal-Icons
+    Set-PSReadlineKeyHandler -Key Tab -Function Complete
+    ```
+  - Add alias to PS <code>$PROFILE</code>
+    ```
+    Set-Alias -Name MoveToDesktop -Value "$env:USERPROFILE\AppData\Roaming\MoveToDesktop.exe"
+    Set-Alias -Name npp -Value "C:\Program Files (x86)\Notepad++\notepad++.exe"
+    ```
 - Powershell
   - Chocolatey package manager
     - Install gsudo (from administrator prompt)
